@@ -7,31 +7,31 @@
 		<key>archiveMethon</key>
 		<string>AD-Hoc</string>
 		<key>archiveTarget</key>
-		<string>ShowStart_3.0</string>
+		<string></string>
 		<key>archiveModel</key>
 		<string>Release</string>
 	</dict>
 	<key>certificateInfo</key>
 	<dict>
 		<key>adhocSignIdentity</key>
-		<string>iPhone Distribution: Chengdu Tai He Le Dong Science and Technology Co.,Ltd. (492U995837)</string>
+		<string></string>
 		<key>adhocProfileName</key>
-		<string>秀动ADHoc</string>
+		<string></string>
 		<key>appStoreSignIdentity</key>
-		<string>iPhone Distribution: Chengdu Tai He Le Dong Science and Technology Co.,Ltd. (492U995837)</string>
+		<string></string>
 		<key>appStoreProfileName</key>
-		<string>秀动AppStore</string>
+		<string></string>
 	</dict>
 	<key>pgyerInfo</key>
 	<dict>
 		<key>uKey</key>
-		<string>d59b141ee791de6436fab69470fdecdf</string>
+		<string></string>
 		<key>apiKey</key>
-		<string>8d726f5124090b742779b76658812346</string>
+		<string></string>
 		<key>password</key>
-		<string>showstart</string>
+		<string></string>
 		<key>isPublishToPublic</key>
-		<string>2</string>
+		<string></string>
 	</dict>
 </dict>
 </plist>
