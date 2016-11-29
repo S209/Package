@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>projectInfo</key>
+	<dict>
+		<key>archiveMethon</key>
+		<string>AD-Hoc</string>
+		<key>archiveTarget</key>
+		<string>ShowStart_3.0</string>
+		<key>archiveModel</key>
+		<string>Release</string>
+	</dict>
+	<key>certificateInfo</key>
+	<dict>
+		<key>adhocSignIdentity</key>
+		<string>iPhone Distribution: Chengdu Tai He Le Dong Science and Technology Co.,Ltd. (492U995837)</string>
+		<key>adhocProfileName</key>
+		<string>秀动ADHoc</string>
+		<key>appStoreSignIdentity</key>
+		<string>iPhone Distribution: Chengdu Tai He Le Dong Science and Technology Co.,Ltd. (492U995837)</string>
+		<key>appStoreProfileName</key>
+		<string>秀动AppStore</string>
+	</dict>
+	<key>pgyerInfo</key>
+	<dict>
+		<key>uKey</key>
+		<string>d59b141ee791de6436fab69470fdecdf</string>
+		<key>apiKey</key>
+		<string>8d726f5124090b742779b76658812346</string>
+		<key>password</key>
+		<string>showstart</string>
+		<key>isPublishToPublic</key>
+		<string>2</string>
+	</dict>
+</dict>
+</plist>
