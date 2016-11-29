@@ -1,6 +1,6 @@
 ### install
 
-```scss
+```shell
 git clone https://github.com/king129/Package.git
 cd Package 
 chmod +x install.sh
@@ -9,7 +9,7 @@ chmod +x install.sh
 
 ### usage
 
-```scss
+```shell
 Package 
 
 ###################
